@@ -165,6 +165,14 @@ I care about systems that hold up under load, not just code that passes the demo
 
 <div align="center">
 
-If something here caught your eye, a star is always appreciated.
+### Thanks for stopping by 👋
+
+If something here caught your eye, drop a ⭐ and let's build something.
+
+![](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png)
+
+**Made with ❤️ and a lot of ☕ by Shrijit More**
+
+*"Code that survives production, not just the demo."*
 
 </div>
