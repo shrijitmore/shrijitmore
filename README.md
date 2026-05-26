@@ -58,24 +58,6 @@ Building production software since 2023, owning problems from the first architec
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-## My GitHub stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-tau-six-29.vercel.app/api?username=shrijitmore&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-tau-six-29.vercel.app/api/top-langs/?username=shrijitmore&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=shrijitmore&theme=tokyonight&hide_border=true)
-
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrijitmore/shrijitmore/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrijitmore/shrijitmore/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shrijitmore/shrijitmore/output/github-snake.svg" />
-</picture>
-
 ## Things I've built
 
 I like working across domains, so the mix below is intentional.
@@ -103,6 +85,22 @@ Full-stack product with a React web app, a React Native mobile app, and a shared
 *React, React Native, Node.js, PostgreSQL, MongoDB, Redis, GCP, Kubernetes*
 
 You can see more on my [portfolio](https://shrijit-portfolio.vercel.app).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrijitmore/shrijitmore/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrijitmore/shrijitmore/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shrijitmore/shrijitmore/output/github-snake.svg" />
+</picture>
+
+<!--
+## GitHub Stats (uncomment when numbers improve)
+
+![GitHub Stats](https://github-readme-stats-tau-six-29.vercel.app/api?username=shrijitmore&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats-tau-six-29.vercel.app/api/top-langs/?username=shrijitmore&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shrijitmore&theme=tokyonight&hide_border=true)
+-->
 
 ## A bit about how I work
 
