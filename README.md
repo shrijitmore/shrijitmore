@@ -16,7 +16,7 @@
 
 Full-stack engineer building production systems across Web2, AI, and Web3. I work on backend architecture, AI agents, real-time systems, and products that go beyond demos.
 
-About 2.5 years of production experience, owning problems from the first architecture sketch all the way to keeping them healthy in production. Strong depth in backend systems and AI, comfortable across the full stack with Python, Java, Node.js, React, and TypeScript. When I'm not shipping, I'm usually grinding LeetCode or reading up on system design.
+Building production software since 2023, owning problems from the first architecture sketch to keeping them healthy in production. Strong depth in backend systems and AI, comfortable across the full stack with Python, Java, Node.js, React, and TypeScript. When I'm not shipping, I'm usually grinding LeetCode or reading up on system design.
 
 ## Focus Areas
 
@@ -26,73 +26,37 @@ About 2.5 years of production experience, owning problems from the first archite
 ⚡ Web3 Infrastructure
 ⚡ Full-stack Product Development
 
-## What I work with
+## Core Stack
 
-**Languages**
-
+**Languages**&ensp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-**Frontend**
-
+**Frameworks**&ensp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**AI and agents**
+**Databases**&ensp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+**Cloud**&ensp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**AI Tools**&ensp;
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-
-**Web3**
-
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-
-**Cloud and DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ## My GitHub stats
 
@@ -126,8 +90,8 @@ AI-powered content intelligence for solo creators: discover viral trends, genera
 
 *Python, LangChain, LangGraph, Multi-agent AI, RAG, OpenAI, Claude, React, TypeScript*
 
-**`Web3` Money Movement Dashboard**
-Think Stripe, but for crypto on EVM chains. Send and receive flows, live transaction status over WebSocket, fee estimates, and support for both MetaMask and WalletConnect. The on-chain value transfer runs on Solidity contracts I wrote myself.
+**`Web3` Money Movement Dashboard** *(private repo, demo on request)*
+Think Stripe, but for crypto on EVM chains. Send and receive flows, live transaction status over WebSocket, fee estimates, and support for both MetaMask and WalletConnect. The on-chain value transfer runs on Solidity contracts I wrote.
 *Next.js, TypeScript, Ethers.js, Viem, Solidity, Zustand, MongoDB*
 
 **`Enterprise` Industrial AI Assistant**
@@ -137,10 +101,6 @@ A RAG system sitting on top of live enterprise data so non-technical staff can a
 **`Full Stack` Swypee, a Pet SaaS Platform**
 Full-stack product with a React web app, a React Native mobile app, and a shared Node and Python backend. Vector similarity search returns in under half a second, with RBAC, rate limiting, and zero-downtime deploys on GCP.
 *React, React Native, Node.js, PostgreSQL, MongoDB, Redis, GCP, Kubernetes*
-
-**`Cloud` Virtual Lab Platform**
-Provisioned and managed Linux cloud infrastructure on Azure: VM configuration, networking, resource groups, and access control for an isolated, scalable lab environment.
-*Azure VMs, Azure Resource Manager, Linux, Docker*
 
 You can see more on my [portfolio](https://shrijit-portfolio.vercel.app).
 
