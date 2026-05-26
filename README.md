@@ -1,4 +1,4 @@
-# Shrijit More — Full-Stack & AI Engineer
+# Hi, I'm Shrijit More
 
 <div align="center">
 
@@ -8,27 +8,27 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ShrijitM_26)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shrijit.m00@gmail.com)
 
-**Backend systems · AI-powered products · Web3 · Real-time web apps**
+Backend, AI products, Web3, and real-time web apps.
 
 </div>
 
----
+## About
 
-## 👋 About Me
+I'm a full-stack engineer with about 2.5 years building things that run in production. Most of my time goes into backend systems and AI products, but I'm comfortable across the stack with Python, Java, Node.js, React, and TypeScript. I like owning a problem from the first architecture sketch all the way to keeping it healthy in production.
 
-Full-stack software engineer with **2.5 years of production experience** across backend systems, AI products, Web3, and real-time web applications. I take ownership end-to-end — architecture, deployment, and keeping things running.
+A few things I've shipped:
 
-- 🤖 Shipped a **live AI hotel receptionist** → [samantha.flashpact.in](https://samantha.flashpact.in)
-- 🏭 Own the backend for a **multi-tenant industrial SaaS** running across 20–30 plants
-- ⛓️ Built **crypto payment dashboards** with wallet integrations and Solidity smart contracts
-- 🧠 Integrate **LangChain / LangGraph** agentic pipelines into production
-- 💬 Work across the full stack: Python, Java, Node.js, React, TypeScript
+- A live AI hotel receptionist that talks to real guests, running at [samantha.flashpact.in](https://samantha.flashpact.in)
+- The backend for a multi-tenant industrial platform handling 20 to 30 plants
+- Crypto payment dashboards with wallet integrations and my own Solidity contracts
+- LangChain and LangGraph agent pipelines wired into real systems, not just demos
 
----
+When I'm not shipping, I'm usually grinding LeetCode or reading up on system design.
 
-## 🛠️ Tech Stack
+## What I work with
 
-### Languages
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -37,7 +37,8 @@ Full-stack software engineer with **2.5 years of production experience** across 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Backend
+**Backend**
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -48,7 +49,8 @@ Full-stack software engineer with **2.5 years of production experience** across 
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-### Frontend
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=000)
@@ -57,7 +59,8 @@ Full-stack software engineer with **2.5 years of production experience** across 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### AI & Agents
+**AI and agents**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -65,20 +68,23 @@ Full-stack software engineer with **2.5 years of production experience** across 
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 
-### Web3
+**Web3**
+
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
-### Databases
+**Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-### Cloud & DevOps
+**Cloud and DevOps**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -87,9 +93,7 @@ Full-stack software engineer with **2.5 years of production experience** across 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
----
-
-## 📊 GitHub Statistics
+## My GitHub stats
 
 <div align="center">
 
@@ -107,54 +111,39 @@ Full-stack software engineer with **2.5 years of production experience** across 
   <img alt="github-snake" src="https://raw.githubusercontent.com/shrijitmore/shrijitmore/output/github-snake.svg" />
 </picture>
 
----
+## Things I've built
 
-## 🚀 Featured Projects
+**AI Hotel Receptionist** &nbsp;·&nbsp; [samantha.flashpact.in](https://samantha.flashpact.in)
+A multi-agent system that's actually live and talking to guests. LangGraph keeps track of the conversation, decides when to use tools, and pulls answers from a RAG pipeline built on verified hotel data. It has role-based access, full audit logs, and went through red-team testing before going live.
+*Python, LangGraph, RAG, OpenAI, Claude, NestJS, WebSocket, PostgreSQL*
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [AI Hotel Receptionist](https://samantha.flashpact.in) | Live multi-agent AI receptionist — LangGraph orchestration, RAG on verified hotel data, zero hallucinations | Python, LangGraph, RAG, OpenAI, Claude, NestJS, WebSocket |
-| Web3 Money Movement Dashboard | Stripe-style crypto payment dashboard on EVM with real-time tx status and multi-wallet support | Next.js, Ethers.js, Viem, Solidity, WebSocket |
-| Industrial AI Assistant | RAG system on live enterprise data with prompt guardrails and async Celery orchestration | Python, LangChain, Vector DBs, Celery, Redis, AWS |
-| Swypee: Pet SaaS Platform | Full-stack SaaS — web + React Native mobile, vector similarity search under 500ms | React, React Native, Node.js, PostgreSQL, GCP, K8s |
-| Virtual Lab Platform | Provisioned isolated, scalable Linux cloud lab infrastructure on Azure | Azure VMs, ARM, Linux, Docker |
+**Web3 Money Movement Dashboard**
+Think Stripe, but for crypto on EVM chains. Send and receive flows, live transaction status over WebSocket, fee estimates, and support for both MetaMask and WalletConnect. The on-chain value transfer runs on Solidity contracts I wrote myself.
+*Next.js, TypeScript, Ethers.js, Viem, Solidity, Zustand, MongoDB*
 
-**👉 [View my portfolio](https://shrijit-portfolio.vercel.app)**
+**Industrial AI Assistant**
+A RAG system sitting on top of live enterprise data so non-technical staff can ask questions in plain English. Async work runs through Celery, with prompt guardrails and adversarial testing keeping the answers honest.
+*Python, LangChain, Vector DBs, Celery, Redis, AWS*
 
----
+**Swypee, a Pet SaaS Platform**
+Full-stack product with a React web app, a React Native mobile app, and a shared Node and Python backend. Vector similarity search returns in under half a second, with RBAC, rate limiting, and zero-downtime deploys on GCP.
+*React, React Native, Node.js, PostgreSQL, MongoDB, Redis, GCP, Kubernetes*
 
-## 💼 What I Do
+You can see more on my [portfolio](https://shrijit-portfolio.vercel.app).
 
-- **Backend Architecture**: Multi-tenant SaaS, schema-based tenant isolation, Kafka event pipelines (thousands of events/sec), sub-200ms APIs
-- **Production AI Systems**: LangChain/LangGraph agents, RAG pipelines, prompt guardrails, red-team testing
-- **Web3 Development**: Solidity smart contracts, wallet integrations, on-chain value transfer
-- **Real-Time Frontends**: React + TypeScript with WebSocket data and performance-critical rendering
-- **DevOps**: Docker/Kubernetes, CI/CD on AWS, GCP, and Azure, full monitoring and automated scaling
+## A bit about how I work
 
----
+I care about systems that hold up under load, not just code that passes the demo. On the backend that means schema-based tenant isolation, Kafka pipelines moving thousands of events a second, and APIs that stay under 200ms. With AI products I lean hard on guardrails and red-team testing, because a confident wrong answer in production is worse than no answer. And I try to leave every project with proper monitoring and CI/CD so it doesn't fall over the moment I look away.
 
-## 📈 Currently
+## Reach me
 
-- 🔨 Building production AI and backend systems at **C4i4 Lab**
-- 🧩 Solving LeetCode daily — medium/hard: Arrays, Graphs, DP, Trees, Binary Search
-- 🏛️ Studying System Design — HLD/LLD, distributed systems, event-driven architecture
-
----
-
-## 📬 Let's Connect
-
-- **📧 Email**: [shrijit.m00@gmail.com](mailto:shrijit.m00@gmail.com)
-- **💼 LinkedIn**: [shrijitmore26](https://linkedin.com/in/shrijitmore26)
-- **🐦 Twitter**: [@ShrijitM_26](https://x.com/ShrijitM_26)
-- **💻 Portfolio**: [shrijit-portfolio.vercel.app](https://shrijit-portfolio.vercel.app)
-- **🤖 Live AI Product**: [samantha.flashpact.in](https://samantha.flashpact.in)
-
----
+- Email: [shrijit.m00@gmail.com](mailto:shrijit.m00@gmail.com)
+- LinkedIn: [shrijitmore26](https://linkedin.com/in/shrijitmore26)
+- Twitter: [@ShrijitM_26](https://x.com/ShrijitM_26)
+- Portfolio: [shrijit-portfolio.vercel.app](https://shrijit-portfolio.vercel.app)
 
 <div align="center">
 
-**Made with ❤️ by Shrijit More**
-
-⭐ If you find my work interesting, feel free to star this repository!
+If something here caught your eye, a star is always appreciated.
 
 </div>
