@@ -97,9 +97,9 @@ When I'm not shipping, I'm usually grinding LeetCode or reading up on system des
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shrijitmore&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-tau-six-29.vercel.app/api?username=shrijitmore&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shrijitmore&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-tau-six-29.vercel.app/api/top-langs/?username=shrijitmore&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shrijitmore&theme=tokyonight&hide_border=true)
 
