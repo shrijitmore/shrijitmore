@@ -1,5 +1,7 @@
 # Hi, I'm Shrijit More
 
+**Full-Stack Software Engineer | AI Systems | Backend Infrastructure | Web3**
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shrijitmore&style=flat-square&color=0ea5e9)
@@ -8,22 +10,21 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ShrijitM_26)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shrijit.m00@gmail.com)
 
-Backend, AI products, Web3, and real-time web apps.
-
 </div>
 
 ## About
 
-I'm a full-stack engineer with about 2.5 years building things that run in production. Most of my time goes into backend systems and AI products, but I'm comfortable across the stack with Python, Java, Node.js, React, and TypeScript. I like owning a problem from the first architecture sketch all the way to keeping it healthy in production.
+Full-stack engineer building production systems across Web2, AI, and Web3. I work on backend architecture, AI agents, real-time systems, and products that go beyond demos.
 
-A few things I've shipped:
+About 2.5 years of production experience, owning problems from the first architecture sketch all the way to keeping them healthy in production. Strong depth in backend systems and AI, comfortable across the full stack with Python, Java, Node.js, React, and TypeScript. When I'm not shipping, I'm usually grinding LeetCode or reading up on system design.
 
-- A live AI hotel receptionist that talks to real guests, running at [samantha.flashpact.in](https://samantha.flashpact.in)
-- The backend for a multi-tenant industrial platform handling 20 to 30 plants
-- Crypto payment dashboards with wallet integrations and my own Solidity contracts
-- LangChain and LangGraph agent pipelines wired into real systems, not just demos
+## Focus Areas
 
-When I'm not shipping, I'm usually grinding LeetCode or reading up on system design.
+⚡ AI Systems & Agents
+⚡ Backend & Distributed Systems
+⚡ Real-time Applications
+⚡ Web3 Infrastructure
+⚡ Full-stack Product Development
 
 ## What I work with
 
@@ -113,27 +114,47 @@ When I'm not shipping, I'm usually grinding LeetCode or reading up on system des
 
 ## Things I've built
 
-**AI Hotel Receptionist** &nbsp;·&nbsp; [samantha.flashpact.in](https://samantha.flashpact.in)
-A multi-agent system that's actually live and talking to guests. LangGraph keeps track of the conversation, decides when to use tools, and pulls answers from a RAG pipeline built on verified hotel data. It has role-based access, full audit logs, and went through red-team testing before going live.
-*Python, LangGraph, RAG, OpenAI, Claude, NestJS, WebSocket, PostgreSQL*
+I like working across domains, so the mix below is intentional.
 
-**Web3 Money Movement Dashboard**
+**`AI` Creator Content Intelligence Platform**
+AI-powered content intelligence for solo creators: discover viral trends, generate scripts in your own voice, and get coached on your delivery.
+- **Trend Discovery:** Scans Instagram, YouTube, and Reddit every hour, surfacing trending topics filtered to your niche and language.
+- **Script Generation:** A 4-agent pipeline writes full reel scripts (30s/60s/90s) that sound like you, including Hinglish and regional languages.
+- **Per-Scene Editing:** Click any scene element and tell the AI what to change. It reasons about cascading changes, warns you, and lets you iterate through a followup chain.
+- **Voice Coaching:** Record yourself reading the script scene by scene. The AI analyses words, filler words, confidence, energy, emotion, and voice raise.
+- **Creator Profile:** Builds a voice fingerprint from a sample and tracks delivery improvement over time.
+
+*Python, LangChain, LangGraph, Multi-agent AI, RAG, OpenAI, Claude, React, TypeScript*
+
+**`Web3` Money Movement Dashboard**
 Think Stripe, but for crypto on EVM chains. Send and receive flows, live transaction status over WebSocket, fee estimates, and support for both MetaMask and WalletConnect. The on-chain value transfer runs on Solidity contracts I wrote myself.
 *Next.js, TypeScript, Ethers.js, Viem, Solidity, Zustand, MongoDB*
 
-**Industrial AI Assistant**
+**`Enterprise` Industrial AI Assistant**
 A RAG system sitting on top of live enterprise data so non-technical staff can ask questions in plain English. Async work runs through Celery, with prompt guardrails and adversarial testing keeping the answers honest.
 *Python, LangChain, Vector DBs, Celery, Redis, AWS*
 
-**Swypee, a Pet SaaS Platform**
+**`Full Stack` Swypee, a Pet SaaS Platform**
 Full-stack product with a React web app, a React Native mobile app, and a shared Node and Python backend. Vector similarity search returns in under half a second, with RBAC, rate limiting, and zero-downtime deploys on GCP.
 *React, React Native, Node.js, PostgreSQL, MongoDB, Redis, GCP, Kubernetes*
+
+**`Cloud` Virtual Lab Platform**
+Provisioned and managed Linux cloud infrastructure on Azure: VM configuration, networking, resource groups, and access control for an isolated, scalable lab environment.
+*Azure VMs, Azure Resource Manager, Linux, Docker*
 
 You can see more on my [portfolio](https://shrijit-portfolio.vercel.app).
 
 ## A bit about how I work
 
 I care about systems that hold up under load, not just code that passes the demo. On the backend that means schema-based tenant isolation, Kafka pipelines moving thousands of events a second, and APIs that stay under 200ms. With AI products I lean hard on guardrails and red-team testing, because a confident wrong answer in production is worse than no answer. And I try to leave every project with proper monitoring and CI/CD so it doesn't fall over the moment I look away.
+
+## Open to
+
+- Full Stack Engineering
+- Backend Engineering
+- AI/ML Engineering
+- Web3 Development
+- Software Engineering roles
 
 ## Reach me
 
