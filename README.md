@@ -116,7 +116,7 @@ About 2.5 years of production experience, owning problems from the first archite
 
 I like working across domains, so the mix below is intentional.
 
-**`AI` Creator Content Intelligence Platform**
+**`AI` [CreatorPulse](https://github.com/shrijitmore/Creatorpulse)**
 AI-powered content intelligence for solo creators: discover viral trends, generate scripts in your own voice, and get coached on your delivery.
 - **Trend Discovery:** Scans Instagram, YouTube, and Reddit every hour, surfacing trending topics filtered to your niche and language.
 - **Script Generation:** A 4-agent pipeline writes full reel scripts (30s/60s/90s) that sound like you, including Hinglish and regional languages.
