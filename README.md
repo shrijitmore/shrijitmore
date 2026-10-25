@@ -5,7 +5,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shrijitmore&style=flat-square&color=0ea5e9)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://shrijit-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://shrijit.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shrijitmore26)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ShrijitM_26)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shrijit.m00@gmail.com)
@@ -87,7 +87,7 @@ A RAG system sitting on top of live enterprise data so non-technical staff can a
 Full-stack product with a React web app, a React Native mobile app, and a shared Node and Python backend. Vector similarity search returns in under half a second, with RBAC, rate limiting, and zero-downtime deploys on GCP.
 *React, React Native, Node.js, PostgreSQL, MongoDB, Redis, GCP, Kubernetes*
 
-You can see more on my [portfolio](https://shrijit-portfolio.vercel.app).
+You can see more on my [portfolio](https://shrijit.me).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrijitmore/shrijitmore/output/github-snake-dark.svg" />
@@ -122,7 +122,7 @@ I care about systems that hold up under load, not just code that passes the demo
 - Email: [shrijit.m00@gmail.com](mailto:shrijit.m00@gmail.com)
 - LinkedIn: [shrijitmore26](https://linkedin.com/in/shrijitmore26)
 - Twitter: [@ShrijitM_26](https://x.com/ShrijitM_26)
-- Portfolio: [shrijit-portfolio.vercel.app](https://shrijit-portfolio.vercel.app)
+- Portfolio: [shrijit.me](https://shrijit.me)
 
 <div align="center">
 
